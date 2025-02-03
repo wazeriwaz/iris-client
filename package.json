@@ -70,7 +70,7 @@
     "dexie": "4.0.8",
     "emoji-picker-react": "^4.11.1",
     "fuse.js": "^7.0.0",
-    "hls.js": "^1.5.15",
+    "hls.js": "^1.5.19",
     "irisdb": "1.0.11",
     "irisdb-hooks": "1.0.11",
     "irisdb-nostr": "1.0.21",
