@@ -75,7 +75,7 @@
     "irisdb-hooks": "1.0.11",
     "irisdb-nostr": "1.0.21",
     "localforage": "^1.10.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "minidenticons": "^4.2.1",
     "nostr-double-ratchet": "^0.0.1",
     "nostr-social-graph": "1.0.16",
